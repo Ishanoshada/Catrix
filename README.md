@@ -1,5 +1,8 @@
 # The Catrix 
 
+
+![main](https://raw.githubusercontent.com/Ishanoshada/Ishanoshada/main/ss/IMG_20231108_162305.jpg)
+
 ## Introduction
 
 The `catrix` package provides a simulation environment where virtual cats, known as "Catrix", coexist in a state of perpetual mindfulness and exploration. This simulation embodies principles of contentment, curiosity, and gratitude, aiming to cultivate inner peace and transcend boundaries.
