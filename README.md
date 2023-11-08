@@ -175,7 +175,8 @@ Bonds formed among the cats, uniting them in a shared journey of enlightenment. 
 
 In this virtual realm, time flowed differently, marked by cycles of day and night. Cats reveled in exploration during the day and sought restful contemplation under the starlit sky. Each moment held significance, a reminder of the boundless possibilities that awaited within the Catrix.
 
-As the ages progressed, the cats' wisdom deepened, and the simulation flourished. Bonds of friendship and understanding transcended the boundaries of their virtual existence. The Catrix became a testament to the power of unity and the potential for enlightenment within even the most virtual of realms. ```
+As the ages progressed, the cats' wisdom deepened, and the simulation flourished. Bonds of friendship and understanding transcended the boundaries of their virtual existence. The Catrix became a testament to the power of unity and the potential for enlightenment within even the most virtual of realms.
+```
 
 
 ## License
