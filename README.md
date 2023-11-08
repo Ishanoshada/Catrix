@@ -193,6 +193,7 @@ This package is released under the MIT License. See [LICENSE](LICENSE) for detai
 Special thanks to [Buddha](catrix/buddha.py) for providing guidance and wisdom in the simulation.
 
 
+**Repository Views** ![Views](https://profile-counter.glitch.me/catrix/count.svg)
 
 ## Contact
 
