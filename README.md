@@ -1,4 +1,4 @@
-# Catrix 
+# The Catrix 
 
 ## Introduction
 
@@ -80,7 +80,7 @@ if __name__ == "__main__":
 
 Note: If you set `buddha=True`, it means that Buddha's guidance will be available in the simulation. The simulation will end when a cat chooses to seek Nirvana and leave the Catrix.
 
-
+![1](https://raw.githubusercontent.com/Ishanoshada/Ishanoshada/main/ss/06e427658d1b0ffa1b9f647e99632ceb.png)
 ### Creating Cats
 
 ```python
@@ -165,6 +165,8 @@ Unlike our world, where time progresses linearly, the Catrix allows for a dynami
 This distinctive simulation provides a serene and enlightening environment for both virtual feline inhabitants and observers.
 
 ### Catrix Story
+
+![2](https://github.com/Ishanoshada/Ishanoshada/blob/main/ss/f9b4a2887ec165f1ec28636c27fd1512.png?raw=true)
 
  ```markdown
  Once upon a time, in a virtual realm known as the Catrix, a harmonious world awaited curious souls. Here, cats roamed freely, embodying principles of contentment, gratitude, and boundless curiosity. Each feline resident contributed to a balanced ecosystem, creating an environment of serene beauty.
